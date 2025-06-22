@@ -1,26 +1,58 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-.color-verde{
+.color-verde {
     color: teal;
 }
 
-nav ul li{
+nav ul li {
     list-style: none;
-    
+
     border: solid 2px green;
     display: inline-block;
-    
+
 }
 
-.logo{
-    width: 150px; 
+.logo {
+    width: 150px;
     height: 150px;
     border: solid 2px blue;
+    border-radius: 100px;
 }
 
-h1{
+h1 {
     margin-top: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+.parrafo {
+    margin-bottom: 40px;
+}
+
+.tamaño-letra {
+    font-size: 60px;
+}
+
+.tamaño-letra-h2 {
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+
+
+.rubik-titulo {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+.petemoss-regular {
+    font-family: "Petemoss", cursive;
+    font-weight: 400;
+    font-style: normal;
 }

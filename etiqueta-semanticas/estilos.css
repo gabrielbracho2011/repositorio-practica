@@ -20,6 +20,8 @@ nav ul li {
     height: 150px;
     border: solid 2px blue;
     border-radius: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 h1 {
@@ -31,6 +33,7 @@ h1 {
 
 .parrafo {
     margin-bottom: 40px;
+    margin-left: 20px;
 }
 
 .tamaño-letra {
@@ -40,6 +43,7 @@ h1 {
 .tamaño-letra-h2 {
     font-size: 50px;
     margin-bottom: 40px;
+    margin-left: 20px;
 }
 
 
@@ -55,4 +59,16 @@ h1 {
     font-family: "Petemoss", cursive;
     font-weight: 400;
     font-style: normal;
+}
+
+.contenedor{
+    text-align:right;
+    margin-right: 50px;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 1000px;
+}
+
+.mail{
+    margin-left: 20px;
 }
